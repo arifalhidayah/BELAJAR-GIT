@@ -4,5 +4,8 @@ di file ini terdapat baris yang isinya
 
 html
 bootstrap
-javascript
+php
 laravel
+
+
+yazid
