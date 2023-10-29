@@ -5,5 +5,13 @@ di file ini terdapat baris yang isinya
 html
 bootstrap
 javascript
+code igniter
+
 Tailwind CSS 
 -revan.
+
+Nobel
+
+yazid
+
+
