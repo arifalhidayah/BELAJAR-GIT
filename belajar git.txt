@@ -1,0 +1,7 @@
+Belajar git version control system
+
+di file ini terdapat baris yang isinya
+
+html
+css
+javascript
