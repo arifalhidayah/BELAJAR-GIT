@@ -6,4 +6,4 @@ html
 bootstrap
 javascript
 Tailwind CSS 
--revan
+-revan.
