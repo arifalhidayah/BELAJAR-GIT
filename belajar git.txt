@@ -4,8 +4,15 @@ di file ini terdapat baris yang isinya
 
 html
 bootstrap
-php
-laravel
+javascript
+code igniter
 
+
+
+
+
+
+Nobel
 
 yazid
+
