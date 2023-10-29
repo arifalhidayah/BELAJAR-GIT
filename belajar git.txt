@@ -5,4 +5,11 @@ di file ini terdapat baris yang isinya
 html
 bootstrap
 javascript
-laravel
+code igniter
+
+
+
+
+
+
+Nobel
